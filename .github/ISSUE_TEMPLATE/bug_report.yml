@@ -1,0 +1,77 @@
+name: Bug report
+description: Something in Forked doesn't work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue is public.** Do not post your server address, API tokens, passwords, or request header values (such as Cloudflare Access or Pangolin headers), here or in screenshots. Crop or cover them first.
+
+        If the problem needs logs, use **Profile → Settings → About → Report a Bug** in Forked instead. It opens an email you can review before sending, with tokens and server addresses redacted.
+
+        Setup questions go to the [support page](https://knownframe.com/support/forked/).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the Library tab
+        2. Tap a recipe
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: forked-version
+    attributes:
+      label: Forked version
+      description: In iPhone Settings → General → iPhone Storage → Forked.
+      placeholder: "2026.10.1"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: iPhone model and iOS version
+      placeholder: "iPhone 15, iOS 26.0"
+    validations:
+      required: true
+  - type: input
+    id: mealie-version
+    attributes:
+      label: Mealie version
+      description: Forked shows the version it found when you set up the connection.
+      placeholder: "3.21.0"
+  - type: dropdown
+    id: connection
+    attributes:
+      label: How Forked reaches your server
+      description: Pick the closest. Don't add the address.
+      options:
+        - Home network, plain HTTP (private IP or .local)
+        - Home network, HTTPS (trusted or self-signed certificate)
+        - Public hostname over HTTPS
+        - Tailscale
+        - Cloudflare Tunnel
+        - Cloudflare Access with a service token
+        - Pangolin
+        - Other reverse proxy or auth gateway
+        - Not sure
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or screen recording
+      description: Optional. Check that no server address, token, or header value is visible.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before you submit
+      options:
+        - label: This issue contains no server address, API token, password, or request header value.
+          required: true

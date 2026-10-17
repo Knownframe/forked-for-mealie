@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest something Forked should do.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        First, [search the existing requests](https://github.com/Knownframe/forked-for-mealie/issues?q=is%3Aissue+label%3Aenhancement) and the [roadmap](https://github.com/Knownframe/forked-for-mealie/blob/main/ROADMAP.md). If your idea is there, add a 👍 to it instead of opening a new one. The 👍 count helps decide what comes next.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The problem or the moment in your cooking, planning, or shopping where Forked falls short.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How you picture it working. Rough is fine.
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you handle it today?
+      description: Optional. In Mealie's web app, another app, or on paper.

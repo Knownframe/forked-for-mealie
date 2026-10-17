@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup help and questions
+    url: https://knownframe.com/support/forked/
+    about: Connecting a server, reverse proxies, Tailscale, Households, and Forked Pro. Or email support@knownframe.com.
+  - name: Ask the community
+    url: https://github.com/Knownframe/forked-for-mealie/discussions
+    about: Questions, tips, and setups that work for you.
+  - name: Report a security problem privately
+    url: https://github.com/Knownframe/forked-for-mealie/blob/main/SECURITY.md
+    about: Please don't open a public issue for security problems.
