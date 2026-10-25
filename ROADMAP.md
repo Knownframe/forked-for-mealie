@@ -10,30 +10,6 @@ add a 👍, or [request it](https://github.com/Knownframe/forked-for-mealie/issu
 Released changes are in the [changelog](CHANGELOG.md), and problems we
 know about are in [known issues](KNOWN_ISSUES.md).
 
-## 2026.11: Cooking and glanceable (in testing)
-
-Make cooking and shopping faster, with your plan in reach outside the app.
-
-- Start Cooking shows the ingredients each step needs
-- Step timers on the Lock Screen and in the Dynamic Island, several at once
-- Widgets for the Home Screen and Lock Screen: what's next to cook, your plan,
-  and what's left to buy
-- Siri and Spotlight: ask what's next to cook, add something to Shopping, and
-  find recipes by name (iOS 18 and later)
-- Import a recipe from a cooking website link, checked before it's saved to
-  Mealie
-- Recipe pages list the tools you'll need
-- Host a Meal (Forked Pro): plan a big meal for a date and your guests, scale
-  every dish, follow a timeline back from serving, and cook every dish at once
-  with Cook Together
-- Share any meal as a menu card with photos
-- Shopping suggests foods as you type
-- Edit nutrition, and create or rename tags and categories
-- Changes on your server arrive within minutes, and large libraries download
-  faster, with time left shown
-- Households show when someone joins or leaves, or changes the shared plan or
-  list
-
 ## 2026.12: What people asked for
 
 Features requested after the 2026.10 launch.
@@ -46,6 +22,9 @@ Features requested after the 2026.10 launch.
 - Help organizing a library: suggested tags from website data and on-device
   rules, never applied without asking
 - Widgets you can configure
+- Cooking timers that ring like the Clock app's until you stop them, even in
+  silent mode (iOS 26)
+- Fixes from the [known issues](KNOWN_ISSUES.md)
 
 ## 2027.1: Mealie sync and photo import
 

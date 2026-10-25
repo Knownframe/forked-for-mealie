@@ -27,7 +27,7 @@ tracking.
 
 ## What Forked does
 
-The current release is 2026.10.1.
+The current release is 2026.11.0.
 
 - **Your whole library.** Every recipe as a photo card, with search across
   titles, ingredients, steps, and notes, and filters for favorites, rating,
@@ -44,8 +44,17 @@ The current release is 2026.10.1.
 - **One grocery list.** Add a plan, saved picks, or your own items to one
   Shopping list. Matching quantities combine, items sort by store section, and
   you can share the list.
-- **Cook step by step.** One step at a time, with built-in timers, and the
-  screen stays on while you cook.
+- **Cook step by step.** One step at a time, with the ingredients each step
+  needs. Timers run on your Lock Screen and in the Dynamic Island, several at
+  once, and the screen stays on while you cook.
+- **Import from a link.** Bring in a recipe from almost any cooking website
+  and check it before it's saved to Mealie.
+- **Your plan at a glance.** Home Screen and Lock Screen widgets show what's
+  next to cook, your plan, and what's left to buy. Ask Siri what's next or to
+  add something to Shopping, and find recipes in Spotlight.
+- **Host a meal.** Plan a big meal for a date and your guests, scale every
+  dish, follow a timeline back from serving, and share the menu as a card
+  with photos.
 - **Chef Profiles.** Record allergies, diets such as vegan, halal, and
   gluten-free, and the ingredients you love or avoid. Filtering is based on
   ingredient names and tags and cannot guarantee allergen safety: always check
@@ -61,8 +70,9 @@ The current release is 2026.10.1.
 Browsing, editing, Quick Picks, meal plans, Shopping, and cooking are free.
 Forked Pro is a one-time purchase, shareable with Family Sharing. It adds
 Households (share a meal plan and shopping list with up to four people through
-iCloud; joining is free), Plan History, Use This Plan Again, Reuse Ingredients,
-and Avoid Recent Meals. There are no subscriptions. Optional tips unlock
+iCloud; joining is free), Host a Meal and Cook Together, Plan History, Use
+This Plan Again, Reuse Ingredients, and Avoid Recent Meals. Sharing a menu
+card is free. There are no subscriptions. Optional tips unlock
 nothing.
 
 ## Requirements and compatibility
