@@ -7,7 +7,8 @@ release. Everything that is free in Forked today stays free.
 Want something that isn't listed? Search the
 [feature requests](https://github.com/Knownframe/forked-for-mealie/issues?q=is%3Aissue+label%3Aenhancement),
 add a 👍, or [request it](https://github.com/Knownframe/forked-for-mealie/issues/new?template=feature_request.yml).
-Released changes are in the [changelog](CHANGELOG.md).
+Released changes are in the [changelog](CHANGELOG.md), and problems we
+know about are in [known issues](KNOWN_ISSUES.md).
 
 ## 2026.11: Cooking and glanceable (in testing)
 

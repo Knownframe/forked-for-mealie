@@ -99,6 +99,7 @@ reverse proxies, Tailscale, and troubleshooting.
 
 ## Feedback
 
+- **Something not working?** Check the [known issues](KNOWN_ISSUES.md) first.
 - **Found a bug?** [Open a bug report](https://github.com/Knownframe/forked-for-mealie/issues/new?template=bug_report.yml).
 - **Want a feature?** Search the
   [open requests](https://github.com/Knownframe/forked-for-mealie/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
@@ -118,7 +119,8 @@ can review before sending, with tokens and server addresses redacted.
 - [Forked website](https://knownframe.com/forked/)
 - [Support](https://knownframe.com/support/forked/)
 - [Privacy policy](https://knownframe.com/privacy/forked/)
-- [Roadmap](ROADMAP.md) and [changelog](CHANGELOG.md)
+- [Roadmap](ROADMAP.md), [changelog](CHANGELOG.md), and
+  [known issues](KNOWN_ISSUES.md)
 
 ---
 
