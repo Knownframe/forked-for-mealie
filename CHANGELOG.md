@@ -10,28 +10,34 @@ Cook with your iPhone in reach, and your plan on your Home Screen.
 
 - Start Cooking shows the ingredients each step needs
 - Step timers run on your Lock Screen and in the Dynamic Island, several at
-  once
-- Host a Meal (Pro): plan a big meal for a date and your guests, scale every
-  dish, follow a timeline back from serving, and cook every dish at once with
-  Cook Together
-- Share any meal as a menu card with photos
-- Widgets for your Home Screen and Lock Screen: what's next to cook, your
-  plan, and what's left to buy
+  once. Stop one right from the Lock Screen, or from the timer pill above the
+  tabs
+- Widgets for your Home Screen and Lock Screen: what's next to cook, your plan
+  with photos, and what's left to buy
 - Ask Siri "What's next to cook?" or to add something to Shopping, open a
   favorite recipe by name, and find recipes in Spotlight (iOS 18 and later)
 - Import a recipe from almost any cooking website: in Library, tap + and
   choose From a Link, then check it before it's saved
+- Host a Meal (Forked Pro): plan a big meal for a date and your guests, scale
+  every dish, and follow a timeline back from serving. Make-ahead dishes get
+  their own section, and appetizers or dessert can be served at their own time
+- Cook Together (Forked Pro): cook every dish at once, one step at a time,
+  with each dish's timer on top
+- Share meals from your plan as a menu card with photos and a note (Plan ›
+  Options › Share a Menu). A hosted meal's card can show serving times
 - Recipe pages list the tools you'll need and warn about allergens; tap a
   Quick Picks card to open its recipe
-- Shopping shows what you're adding and suggests foods as you type
+- Shopping shows what you're adding, suggests foods as you type, and lets you
+  drag items into your own order
 - Pick any recipe for your plan, drinks and desserts included
 - Edit nutrition, and create or rename tags and categories
 - Changes on your server arrive within minutes, and large libraries download
   faster, with time left shown
 - Your plans, Plan History, Household data, and unsent edits are now included
   in iPhone backups
-- Households show when someone joins or leaves, or changes the shared plan or
-  list
+- Households can notify you when someone joins or leaves, or changes the
+  shared plan or list. Choose which in Settings › Household
+- Search Plan History by recipe, or by "last week" or "last month"
 - Allergy and diet matching knows more foods
 - Settings › Storage shows what Forked keeps on your iPhone and in iCloud
 

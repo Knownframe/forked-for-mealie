@@ -7,14 +7,14 @@
 [issue tracker](https://github.com/Knownframe/forked-for-mealie/issues). The
 app's code is not here.
 
-Forked ("Forked Recipes" on the App Store) is an iPhone app for your
+Forked ("Forked for Mealie" on the App Store) is an iPhone app for your
 self-hosted [Mealie](https://mealie.io) recipe library. Browse and edit
 recipes, decide what to cook, plan the week, and shop from one list. Your
 recipes stay on your own server. There is no Forked account, no ads, and no
 tracking.
 
 <p>
-  <a href="https://apps.apple.com/us/app/forked-recipes/id6760947117"><img src="assets/app-store-badge-black.svg" height="48" alt="Download on the App Store"></a>
+  <a href="https://apps.apple.com/us/app/forked-for-mealie/id6760947117"><img src="assets/app-store-badge-black.svg" height="48" alt="Download on the App Store"></a>
 </p>
 
 <p>
