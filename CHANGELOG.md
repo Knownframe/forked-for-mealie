@@ -4,6 +4,19 @@ Released versions of Forked on the App Store, newest first. Each entry is the
 version's App Store "What's New" text. Planned work is in the
 [roadmap](ROADMAP.md).
 
+## 2026.11.1
+
+Recipe times are back for Mealie 3.29 and later.
+
+- Mealie 3.29 changed how it stores prep, cook, and total times. Forked now
+  reads them, so your recipe pages, Library, Quick Picks and Plan time filters,
+  and widgets show times again. Recipes already on your iPhone are updated on
+  their own, with nothing to resync.
+- Changing a time in Forked saves it the way your Mealie version expects, and
+  keeps any note after it, like "plus overnight".
+- On a slow server, a recipe you create or import is no longer sent twice,
+  which could double its ingredients and steps.
+
 ## 2026.11.0
 
 Host a big meal, and cook with your iPhone in reach.

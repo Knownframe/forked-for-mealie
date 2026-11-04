@@ -11,15 +11,14 @@ Planned releases can move; see the [roadmap](ROADMAP.md).
 ### Recipe times are missing with Mealie 3.29 or later
 
 Mealie 3.29 changed how it stores a recipe's prep, cook, and total times, and
-Forked doesn't read the new format yet. Recipes from Mealie 3.29 and later show
-no times, and cook-time filters in Quick Picks and Plan can't use them. Nothing
-is lost: the times are still on your server.
+Forked 2026.11.0 didn't read the new format. Recipes from Mealie 3.29 and later
+showed no times, and cook-time filters in Quick Picks and Plan couldn't use
+them. Nothing was lost: the times stayed on your server.
 
 - **Affects:** Forked 2026.11.0 and earlier, with Mealie 3.29 or later.
 - **Workaround:** see a recipe's times in Mealie's web app.
-- **Fix:** 2026.11.1, which goes to Apple for review as soon as 2026.11.0 is
-  live. After you update, times come back on their own; there's nothing to
-  resync.
+- **Fix:** fixed in 2026.11.1. Update Forked from the App Store, and times come
+  back on their own; there's nothing to resync.
 
 ## Households
 
