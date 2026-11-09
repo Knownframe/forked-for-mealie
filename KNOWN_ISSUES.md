@@ -20,6 +20,18 @@ them. Nothing was lost: the times stayed on your server.
 - **Fix:** fixed in 2026.11.1. Update Forked from the App Store, and times come
   back on their own; there's nothing to resync.
 
+### Allergy and diet warnings only recognize English ingredient names
+
+Forked matches allergies and diets against English ingredient names, so a
+recipe written in another language may not be flagged: "arachide" isn't
+matched as peanut, for example. Forked can't guarantee allergen safety in any
+language, and this gap makes it easier to miss something.
+
+- **Affects:** all versions of Forked, with recipes that aren't in English.
+- **Workaround:** check those recipes' ingredients yourself.
+- **Fix planned:** French in 2027, along with translating the app; other
+  languages after that.
+
 ## Households
 
 ### Items a member added can go missing after they leave and rejoin
