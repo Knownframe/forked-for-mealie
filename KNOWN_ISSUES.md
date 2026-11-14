@@ -8,18 +8,6 @@ Planned releases can move; see the [roadmap](ROADMAP.md).
 
 ## Recipes
 
-### Recipe times are missing with Mealie 3.29 or later
-
-Mealie 3.29 changed how it stores a recipe's prep, cook, and total times, and
-Forked 2026.11.0 didn't read the new format. Recipes from Mealie 3.29 and later
-showed no times, and cook-time filters in Quick Picks and Plan couldn't use
-them. Nothing was lost: the times stayed on your server.
-
-- **Affects:** Forked 2026.11.0 and earlier, with Mealie 3.29 or later.
-- **Workaround:** see a recipe's times in Mealie's web app.
-- **Fix:** fixed in 2026.11.1. Update Forked from the App Store, and times come
-  back on their own; there's nothing to resync.
-
 ### Allergy and diet warnings only recognize English ingredient names
 
 Forked matches allergies and diets against English ingredient names, so a
@@ -41,9 +29,21 @@ items they added to the shared plan or Shopping list before that may be
 missing on their phone, and on the phone of anyone who joins later. Nothing is
 lost: members who already had those items still have them.
 
-- **Affects:** Forked 2026.8.0 and later.
+- **Affects:** Forked 2026.8.0 through 2026.11.1.
 - **Workaround:** add a missing item again.
-- **Fix planned:** 2026.12.
+- **Fix:** fixed in 2026.12.
+
+### Members see a hosted meal's dishes as ordinary meals
+
+When the organizer hosts a meal and shares the Plan, members don't see it as a
+hosted meal: its dishes show among their week's meals, labelled with the
+meal's name, without the serving time, guests, or timeline. Nothing is lost:
+the hosted meal is complete on the organizer's phone.
+
+- **Affects:** Forked 2026.11.0 and later, in a Household that shares the Plan.
+- **Workaround:** the organizer runs the day from their phone. Since 2026.12,
+  a member who starts a new plan or clears the week keeps the hosted dishes.
+- **Fix planned:** 2027.1, when hosted meals sync to every member.
 
 ### "Copy Link" in the sharing sheet doesn't invite anyone
 
@@ -63,8 +63,8 @@ Island show Done, and the notification repeats it.
 
 - **Workaround:** keep the ring switch on while you cook, or keep an eye on the
   Lock Screen.
-- **Fix planned:** 2026.12, on iOS 26: timers that ring like the Clock app's
-  until you stop them.
+- **Fix:** fixed in 2026.12 on iOS 26: timers ring like the Clock app's until
+  you stop them, even in silent mode.
 
 ## Shopping
 
@@ -73,4 +73,4 @@ Island show Done, and the notification repeats it.
 An item you type, like "BBQ sauce", is saved as "Bbq Sauce".
 
 - **Workaround:** none; the item itself is unaffected.
-- **Fix planned:** 2026.12.
+- **Fix:** fixed in 2026.12.
